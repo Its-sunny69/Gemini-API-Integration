@@ -41,8 +41,8 @@ function InputForm() {
         setOutput(text);
       }
 
-      console.log(prompt);
-      console.log(text);
+      // console.log(prompt);
+      // console.log(text);
     }
 
     run();
